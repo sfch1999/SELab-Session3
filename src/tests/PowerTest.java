@@ -1,9 +1,4 @@
-package test;
-import main.impl.mult.MultImplRecursive;
-import main.impl.mult.MultImplStandard;
-import main.impl.power.PowerImplRecursive;
-import main.impl.power.PowerImplStandard;
-import main.interfaces.Power;
+package tests;
 import org.junit.Test;
 import org.junit.Assert;
 
