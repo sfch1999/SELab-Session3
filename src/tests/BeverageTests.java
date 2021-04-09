@@ -2,6 +2,9 @@ package tests;
 
 import main.coffee.Espresso;
 import main.coffee.HouseBlend;
+import main.decorators.Mocha;
+import main.decorators.SteamedMilk;
+import main.decorators.Whip;
 import main.interfaces.Beverage;
 import org.junit.jupiter.api.Test;
 
