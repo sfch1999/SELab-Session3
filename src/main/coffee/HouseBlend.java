@@ -1,15 +1,15 @@
 package main.coffee;
-
 import main.interfaces.Beverage;
 
-public class Espresso implements Beverage {
+public class HouseBlend implements Beverage {
+
     @Override
     public String getDescription() {
-        return "Delicious Espresso";
+        return "Delicious HouseBlend";
     }
 
     @Override
     public Double cost() {
-        return 1.99;
+        return 0.89;
     }
 }

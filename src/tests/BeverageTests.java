@@ -1,5 +1,8 @@
 package tests;
 
+import main.coffee.Espresso;
+import main.coffee.HouseBlend;
+import main.interfaces.Beverage;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
